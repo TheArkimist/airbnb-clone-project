@@ -167,5 +167,12 @@ The backend for the Airbnb Clone project is designed to provide a robust and sca
 
 
 ## CI/CD Pipeline
+### Brief Description
+A CI/CD pipeline is a series of automated steps that streamline the software development process, from code changes to deployment. It involves continuous integration (CI) and continuous delivery (CD) or continuous deployment. CI automates the process of integrating code changes, while CD automates the deployment of those changes to various environments. This automation helps teams release software faster and more reliably, leading to improved quality and faster feedback loops. 
 
-
+### Tools for CI/CD Pipeline
+- GitLab
+- GitHub Axtions
+- Jenkins
+- CircleCI
+- Docker

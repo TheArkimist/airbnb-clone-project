@@ -6,6 +6,11 @@ This project is a full-stack clone of the popular accommodation booking platform
 - **Frontend**: HTML, CSS, Javascript (React or similar framework)
 - **Version Control**: Git and GitHub
 - **Design Tools**: Figma for UI/UX design
+## Technology Stack
+- Django: A web framework for building RESTful APIs
+- PostgreSQL
+- GraphQL
+- Docker
 
 # UI/UX Design Planning
 ## Design Goals

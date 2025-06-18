@@ -48,6 +48,7 @@ A well-designed booking system reduces friction in the user journey, increases c
 It keeps you organised and focused on the task before beginning the project.
 
 # Project Roles and Responsibilities
+## Team Roles
 | Role | Responsibilities |
 | ---- | ----------- |
 | Project Manager | Oversees timeline, coordinates team, manages deliverables |

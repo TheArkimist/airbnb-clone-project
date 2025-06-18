@@ -175,4 +175,3 @@ A CI/CD pipeline is a series of automated steps that streamline the software dev
 - GitHub Axtions
 - Jenkins
 - CircleCI
-- Docker

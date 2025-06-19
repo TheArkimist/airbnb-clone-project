@@ -147,8 +147,8 @@ The backend for the Airbnb Clone project is designed to provide a robust and sca
 - **Endpoints:** ```/users/, /users/{user_id}/```
 - **Features:** Register new users, authenticate, and manage user profiles  
 3. **Property Management**
--  Endpoints:** ```/properties/, /properties/{property_id}/```
--  Features: Create, update, retrieve, and delete property listings. 
+-  **Endpoints:** ```/properties/, /properties/{property_id}/```
+-  **Features:** Create, update, retrieve, and delete property listings. 
 4. **Booking System**
 - **Endpoints:** ```/bookings/, /bookings/{booking_id}/```
 - **Features:** Make, update, and manage bookings, including check-in and check-out details.
